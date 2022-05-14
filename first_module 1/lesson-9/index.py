@@ -24,7 +24,7 @@
 
 
 
-# name = 'hello bro how are you'
+# name = input('enter a name - ')
 # i = 0
 # while i <len(name):
 #     print(name[i] , end=' ')
@@ -89,5 +89,5 @@
 
 
 
-# for i in range(1, 21):
-#     print(i, "*", i, "=", i * i)
+for i in range(1, 21):
+    print(i, "*", i, "=", i * i)

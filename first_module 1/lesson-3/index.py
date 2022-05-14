@@ -65,7 +65,9 @@
 b = int(input("количество в обьеме меньше 1 литра"))
 g = int(input("количество в обьеме больше 1 литра"))
 
-
+i = 1 
+for color in 'red', 'orange', 'black', 'green':
+    print(i, '')
 
 
 
